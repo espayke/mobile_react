@@ -1,0 +1,12 @@
+{
+    "users":[{
+    "id":1,
+    "name":"Arthur Costa",
+    "email":"arthur.costa39@etec.sp.gov.br"
+},
+{
+    "id":2,
+    "name":"Alunos Etec",
+    "email":"alunos@etecbebedour.com.br"
+}]
+}
